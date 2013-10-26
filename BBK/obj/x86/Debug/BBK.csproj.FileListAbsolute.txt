@@ -1,0 +1,8 @@
+d:\wener\documents\visual studio 2010\Projects\BBK\BBK\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wener\documents\visual studio 2010\Projects\BBK\BBK\obj\x86\Debug\BBK.Properties.Resources.resources
+d:\wener\documents\visual studio 2010\Projects\BBK\BBK\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\wener\documents\visual studio 2010\Projects\BBK\BBK\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\wener\documents\visual studio 2010\Projects\BBK\BBK\bin\Debug\BBK.pdb
+d:\wener\documents\visual studio 2010\Projects\BBK\BBK\obj\x86\Debug\BBK.pdb
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\BBK\bin\Debug\BBK.dll
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\BBK\obj\x86\Debug\BBK.dll

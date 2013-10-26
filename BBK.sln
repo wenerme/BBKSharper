@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBK", "BBK\BBK.csproj", "{C2DF925E-E069-499C-8F5F-EBED04BBB897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageViewer", "ImageViewer\ImageViewer.csproj", "{303ABA1D-8728-4A29-9E9B-A926A5A78197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeSim", "ThemeSim\ThemeSim.csproj", "{CC8213B1-08C6-451E-9D91-66F1A1F1E03F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		ThemeSim|x86 = ThemeSim|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2DF925E-E069-499C-8F5F-EBED04BBB897}.Debug|x86.ActiveCfg = Debug|x86
+		{C2DF925E-E069-499C-8F5F-EBED04BBB897}.Debug|x86.Build.0 = Debug|x86
+		{C2DF925E-E069-499C-8F5F-EBED04BBB897}.Release|x86.ActiveCfg = Release|x86
+		{C2DF925E-E069-499C-8F5F-EBED04BBB897}.Release|x86.Build.0 = Release|x86
+		{C2DF925E-E069-499C-8F5F-EBED04BBB897}.ThemeSim|x86.ActiveCfg = Test|x86
+		{C2DF925E-E069-499C-8F5F-EBED04BBB897}.ThemeSim|x86.Build.0 = Test|x86
+		{303ABA1D-8728-4A29-9E9B-A926A5A78197}.Debug|x86.ActiveCfg = Debug|x86
+		{303ABA1D-8728-4A29-9E9B-A926A5A78197}.Debug|x86.Build.0 = Debug|x86
+		{303ABA1D-8728-4A29-9E9B-A926A5A78197}.Release|x86.ActiveCfg = Release|x86
+		{303ABA1D-8728-4A29-9E9B-A926A5A78197}.Release|x86.Build.0 = Release|x86
+		{303ABA1D-8728-4A29-9E9B-A926A5A78197}.ThemeSim|x86.ActiveCfg = Test|x86
+		{CC8213B1-08C6-451E-9D91-66F1A1F1E03F}.Debug|x86.ActiveCfg = Debug|x86
+		{CC8213B1-08C6-451E-9D91-66F1A1F1E03F}.Debug|x86.Build.0 = Debug|x86
+		{CC8213B1-08C6-451E-9D91-66F1A1F1E03F}.Release|x86.ActiveCfg = Release|x86
+		{CC8213B1-08C6-451E-9D91-66F1A1F1E03F}.Release|x86.Build.0 = Release|x86
+		{CC8213B1-08C6-451E-9D91-66F1A1F1E03F}.ThemeSim|x86.ActiveCfg = Test|x86
+		{CC8213B1-08C6-451E-9D91-66F1A1F1E03F}.ThemeSim|x86.Build.0 = Test|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

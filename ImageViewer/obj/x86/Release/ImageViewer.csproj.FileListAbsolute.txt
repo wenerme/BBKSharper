@@ -1,0 +1,12 @@
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\bin\Release\ImageViewer.exe
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\bin\Release\ImageViewer.pdb
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\bin\Release\BBK.exe
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\bin\Release\BBK.pdb
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Release\ImageViewer.AboutBox.resources
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Release\ImageViewer.MainForm.resources
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Release\ImageViewer.Properties.Resources.resources
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Release\ImageViewer.exe
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Release\ImageViewer.pdb

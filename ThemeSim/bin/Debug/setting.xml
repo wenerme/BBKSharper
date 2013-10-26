@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<ThemeSetting 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- 主题信息 -->
+	<Info CreateBy="wener/小文儿 &lt;514403150@qq.com&gt;" ThemeName="黑色主题">
+		<CompatibleDeviceName>
+			<Name>9688</Name>
+		</CompatibleDeviceName>
+	</Info>
+	<NameMappingList>
+		<!-- 指定默认显示 -->
+		<Mapping Name="DefaultScreen" Refer="MainScreen" />
+		
+		<Mapping Name="mnMainBG" Refer="c100dts2a:11" />
+		<!-- 主界面 -->
+		<!-- 图标引用 -->
+		<Mapping Name="IMG查词典" Refer="c100dts2a:1" />
+		<Mapping Name="IMG背单词" Refer="c100dts2a:2" />
+		<Mapping Name="IMG练听说" Refer="c100dts2a:3" />
+		<Mapping Name="IMG学课文" Refer="c100dts2a:4" />
+		<Mapping Name="IMG听音乐" Refer="c100dts2a:5" />
+		<Mapping Name="IMG看电影" Refer="c100dts2a:6" />
+		<Mapping Name="IMG玩游戏" Refer="c100dts2a:7" />
+		<Mapping Name="IMG我的相机" Refer="c100dts2a:8" />
+		<Mapping Name="IMG我的相册" Refer="c100dts2a:9" />
+		<Mapping Name="IMG翻译" Refer="c100dts2a:18" />
+		<!-- 横幅 -->
+		<Mapping Name="IMG查词典Bar" Refer="c100dts2a:17" />
+		<Mapping Name="IMG背单词Bar" Refer="c100dts2b:10" />
+		<Mapping Name="IMG练听说Bar" Refer="c100dts2b:11" />
+		<Mapping Name="IMG学课文Bar" Refer="c100dts2b:12" />
+		<Mapping Name="IMG听音乐Bar" Refer="c100dts2b:13" />
+		<Mapping Name="IMG看电影Bar" Refer="c100dts2b:14" />
+		<Mapping Name="IMG玩游戏Bar" Refer="c100dts2b:15" />
+		<Mapping Name="IMG我的相机Bar" Refer="c100dts2b:16" />
+		<Mapping Name="IMG我的相册Bar" Refer="c100dts2b:17" />
+		<Mapping Name="IMG翻译Bar" Refer="c100dts2b:18" />
+		<!-- MISC -->
+		<Mapping Name="IMG选中的主菜单" Refer="c100dts2a:12" />
+		<!-- 电量界面 -->
+		<Mapping Name="IMG电量1" Refer="battery:1" />
+		<Mapping Name="IMG电量2" Refer="battery:2" />
+		<Mapping Name="IMG电量3" Refer="battery:3" />
+		<Mapping Name="IMG电量4" Refer="battery:4" />
+		<!--  -->
+		<Mapping Name="IMGusb黑色" Refer="usb:1" />
+	</NameMappingList>
+	<!-- 资源列表 -->
+	<ResourceList>
+		<Resource xsi:type="ImageDirectoryResource" DefaultExtension="png" Name="c100dts2a" Path="./c100dts2a" />
+		<Resource xsi:type="ImageDirectoryResource" DefaultExtension="png" Name="c100dts2b" Path="./c100dts2b" />
+		<Resource xsi:type="ImageDirectoryResource" DefaultExtension="png" Name="battery" Path="./battery" />
+		<Resource xsi:type="ImageDirectoryResource" DefaultExtension="png" Name="usb" Path="./usb" />
+	</ResourceList>
+	<!-- 控件列表 -->
+	<ControlList>
+		<Control xsi:type="Image" Name="img电池" NormalImage="c100dts2a:10"/>
+		<Control xsi:type="Image" Name="img左箭头" NormalImage="c100dts2a:13" HoverImage="c100dts2b:6" />
+		<Control xsi:type="Image" Name="img右箭头" NormalImage="c100dts2a:14" HoverImage="c100dts2b:7" />
+		<Control xsi:type="Image" Name="img大选择框" NormalImage="c100dts2a:15" />
+		
+		<Control xsi:type="Image" Name="img图标" NormalImage="IMG查词典"/>
+		<Control xsi:type="Image" Name="img图标Bar" NormalImage="IMG查词典Bar"/>
+		<Control xsi:type="Image" Name="img主菜单" SX="24" Width="192" NormalImage="IMG选中的主菜单"/>
+		
+		<Control xsi:type="Text" Name="txt时间" ForeColor="White" Text="10:20"/>
+		<Control xsi:type="Text" Name="txt日期" ForeColor="White" Text="07/07/03"/>
+		
+		<Control xsi:type="Image" Name="img电量" NormalImage="IMG电量1"/>
+		<Control xsi:type="Text" Name="txt电量" FontSize="10" Text="电池电量: 100 %" ForeColor="White" />
+		
+		
+		<Control xsi:type="Image" Name="imgUSB黑色" NormalImage="IMGusb黑色"/>
+		<!-- 左上角的三个按键 -->
+		<Control xsi:type="Area" Name="are宠物管家" Width="32" Height="22" Left="0"/>
+		<Control xsi:type="Area" Name="are主题切换按钮" Width="19" Height="22" Left="53" />
+		<Control xsi:type="Area" Name="areUSB按钮" Width="19" Height="22" Left="32" />
+	</ControlList>
+	<!-- 屏幕列表 -->
+	<ScreenList>
+		<Screen Name="MainScreen" BackgroundImage="mnMainBG">
+			<Elements>
+				<Element Refer="img电池" Href="BatteryScreen" Left="202" Top="5" Height="10" />
+				<Element Refer="img左箭头" Left="35" Top="78" />
+				<Element Refer="img右箭头" Left="190" Top="78" />
+				<Element Refer="img大选择框" Left="95" Top="18" Parent="img图标Bar" />
+				<Element Refer="img图标" Left="63" Top="40" />
+				<Element Refer="img图标Bar" Top="181" />
+				<Element Refer="txt时间" Left="160" Top="5" />
+				<Element Refer="txt日期" Left="100" Top="5" />
+				<Element Refer="img主菜单" Left="24" Top="276" />
+				<Element Refer="areUSB按钮" Href="USBScreen"/>
+				<Element Refer="are主题切换按钮" />
+				<Element Refer="are宠物管家" />
+			</Elements>
+		</Screen>
+		<Screen Name="BatteryScreen">
+			<Elements>
+				<Element Refer="txt电量" Left="10" Top="40" Parent="img电量"/>
+				<Element Refer="img电量"/>
+			</Elements>
+		</Screen>
+		<Screen Name="USBScreen">
+			<Elements>
+				<Element Refer="imgUSB黑色"/>
+			</Elements>
+		</Screen>
+	</ScreenList>
+</ThemeSetting>

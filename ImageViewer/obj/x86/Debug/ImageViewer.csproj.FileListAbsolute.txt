@@ -1,0 +1,14 @@
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\bin\Debug\ImageViewer.exe
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\bin\Debug\ImageViewer.pdb
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Debug\ImageViewer.Properties.Resources.resources
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Debug\ImageViewer.exe
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Debug\ImageViewer.pdb
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Debug\ImageViewer.MainForm.resources
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\bin\Debug\BBK.pdb
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\obj\x86\Debug\ImageViewer.AboutBox.resources
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\bin\Debug\BBK.dll
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\bin\Debug\ImageViewer.exe.config
+D:\Wener\Documents\Visual Studio 2010\Projects\BBK\ImageViewer\bin\Debug\Ookii.Dialogs.dll
