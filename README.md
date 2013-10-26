@@ -32,10 +32,9 @@ ThemeSim
 截图
 ====
 
-![ImageView screenschot](./ImaveView_screenshot.png "ImageView")
+![ImageView screenschot](https://raw.github.com/WenerLove/BBKSharper/master/ImageView_ScreenShot.png "ImageView")
 
-<!--more-->
 
-![ImageView screenschot](./ThemeSim_screenshot.png "ImageView")
+![ThemeSim screenschot](https://raw.github.com/WenerLove/BBKSharper/master/ThemeSim_ScreenShot.png "ThemeSim")
 
  
