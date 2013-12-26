@@ -6,9 +6,9 @@
 
 这个解决方案包括了三个项目
 
-* [BBKSharper](#BBKSharper)
-* [ImageView](#ImageView)
-* [ThemeSim](#ThemeSim)
+* [BBKSharper](#bbksharper)
+* [ImageView](#imageview)
+* [ThemeSim](#themesim)
 
 BBKSharper
 ===
