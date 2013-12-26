@@ -1,6 +1,16 @@
-﻿这个解决方案包括了三个项目
+<!-- title: 步步高学习机图片格式浏览/修改工具(DLX,RLB,LIB) 和 BBKSharper -->
+<!-- category: Tools -->
+<!-- tag: C# -->
+<!-- date: 2013/8/27 -->
+<!-- state: published -->
 
-BBK
+这个解决方案包括了三个项目
+
+* [BBKSharper](#BBKSharper)
+* [ImageView](#ImageView)
+* [ThemeSim](#ThemeSim)
+
+BBKSharper
 ===
 
 支持步步高设备文件的.net库,使用C#写成.当前仅支持 RLB/DLX/LIB 的读写.
@@ -9,6 +19,26 @@ ImageView
 ==========
 
 支持对 RLB/DLX/LIB 的编辑.绑定了较多快捷键
+
+<!--more-->
+
+
+特性
+----
+
+* 拖动添加图片,可以添加DLX,LIB,RLB或JPG,PNG,GIF,BMP等
+* 可直接导出文件
+* 可直接导出图片
+* 可替换,或移动图片
+* 简单易用的操作
+
+快捷键
+-----
+
+* 左键: 上一张
+* 右键: 下一张
+* O: 打开文件
+* DELETE: 移除当前显示的图片
 
 ChangeLog
 ----------
